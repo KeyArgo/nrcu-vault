@@ -48,9 +48,23 @@ Community, Charm, Code, Design
 Heartbreaker (aka Brooklyn) is the squad's charismatic builder and community champion. Voluminous curly brown hair, pink heart-patterned dress with high-low hemline, pink high heels. Her weapon is her pink laptop covered in heart and skull stickers — charm and code are her arsenal. She fights closed systems not with force, but with conviction, wit, and an unbreakable belief in open freedom.
 
 ## Community Lore (from Discord archive) — Heartbreaker = Brooklyn
-- (Lore to be filled from archive — Heartbreaker/Brooklyn's handle needs confirmation; this is a known community figure whose card is currently visual-only.)
-- **Builder / Believer** — the vault's own framing: "Nimble Wit & Open Tools."
-- **Character archetype**: the optimist who believes open tools can win — a counterweight to the cynics.
+- **Handle confirmed**: `brooklyn` (108 messages) — a real Hermes dev, UI/UX + desktop/TUI focused.
+- **Builds the interfaces everyone uses**: works on the graph tab, pane layout, status bar curation,
+  model picker, cmdk search, the petdex ("/pet toggle"), and desktop dashboard. Merges PRs, reviews,
+  fixes bugs — "made this ~34k% faster" for pasting/deleting large text.
+- **Design-minded**: pushes for clean, reusable UX patterns ("Maybe we can make the cmdk search
+  component embeddable"), the N-col/row grid with overlay support.
+- **Warm and family-connected**: "my mom setup hermes desktop and sends me gifs about how cool we are"
+- **Affectionate, collaborative**: "appreciate you 🤍", "so gucci", celebrates wins.
+- **Grounded**: "They should stick to just training lol" — down-to-earth about hype.
+
+## Friction / stakes (story engine)
+Heartbreaker (Brooklyn) builds the thing everyone LOOKS AT — the interface, the pretty surfaces —
+while the real friction is invisible: making complexity feel simple, curating chaos into something
+"not an IDE" but better. The glowing heart isn't decoration; it's the patience of someone who turns
+other people's messy tools into something their own mom can use and love. That's the want: making the
+powerful feel welcoming. The stakes: if the interface fails, the whole community's access fails with it.
+
 
 ## Friction / stakes (story engine)
 Heartbreaker's friction: believing in something (open source, the community) while the world keeps giving reasons to doubt. Her "weapon" is nimble wit and open tools — meaning she wins not by force but by out-thinking and out-building. The glowing heart floating above her in the campfire scene isn't decoration; it's the thing she's trying to protect.

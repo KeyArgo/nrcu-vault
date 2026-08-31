@@ -22,7 +22,10 @@ This archive records ee.dd’s community-moderator role and the video cameo only
 ## Community Lore (from Discord archive) — ee.dd
 - **Discord moderator**: "I am an irresponsible mod" — playful about the role.
 - **UK-based**: "I just got back from holiday and since UK it looks like I missed my chance with fable"
-- **Bilingual EN/ZH**: posts in Chinese (测试=test, 爱马仕=Hermès).
+- **English-first moderator**: enforces English as the main language ("And English please I have time
+to translate so do you 🙂"); the Chinese lines in the log were him TESTING the translator bot
+(测试="this is a test", 爱马仕="Hermès"), not him speaking Chinese. He says "I speak most
+languages but yes English does make it easier."
 - **Playful**: "/personality set to uwu mode", "I do not have a vending machine 😔"
 - **Social-launch minded**: "there should be one clear twitter/linkedin post with a nice video"
 
