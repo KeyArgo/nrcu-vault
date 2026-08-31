@@ -1,40 +1,43 @@
-# Gille
+# Character Card: gille
 
-> **Support**
+> **Member:** gille
+> **Status:** INTERPRETATION (from lore)
+> **Card source:** archive lore + user note
+> **Last updated:** 2026-08-31
 
-## Confirmed facts
+## Identity
+- **Role in universe:** the Hermes fixer / support engineer
+- **Signature traits:** fixes Hermes setups, patient, helpful, support-community lead
 
-| Field | Value |
-|---|---|
-| **Role** | Support |
-| **Focus** | Support threads |
-| **Initial visual source** | [“Thank You Nous Research” by Arts Bro](../music-videos/thank-you-nous-research-arts-bro.md), approximately 00:29 |
+## Visual Design
+- **Appearance:** TBD (no avatar confirmed)
+- **Outfit:** TBD
+- **Distinctive features:** The person who fixes Hermes machines for users — the community support engineer
+- **Color palette:** TBD (warm, practical)
 
-Gille is part of the support side of the team and handles support threads. Mike describes him as a good dude.
+## Lore / Backstory
+A core Nous staff member (support/community lead). 2,768 archive messages of hands-on help: account/billing issues, support threads, PR review, testing fixes himself ('saw mentions of gh copilot issues and went and tested myself. here's the fix'). THE one who fixes Hermes machines for users — a natural in-universe role: the friendly repairer who keeps everyone's agents running.
 
-## Visual references — confirmed appearances
+## Personality
+- **Mood / demeanor:** patient, helpful, practical, hands-on, community-first
 
-### 00:29 — Night drive
+## Reference
+- **Image:** none
+- **Sheet:** none
 
-In the video source, Gille drives a compact olive-green utility truck at night through a mountain landscape. Visible design anchors:
+## Continuity notes
+USER-CONFIRMED ROLE (2026-08-31): gille can fix some kind of Hermes machine for users IN the video. Design from lore: the dependable repairer/helper who keeps the community's agents alive.
 
-- Dark knit beanie
-- Short dark beard
-- Dark jacket
-- Compact olive-green utility truck
+## Moderator Lore
+> **Role:** Community moderator. Gille — The Systems Troubleshooter
 
-### 00:37–00:39 — Coffee delivery
+### Real voice (from Discord archive)
+Real archive voice:
+- First to check whether an account "got pushed into a negative balance" - deep billing/systems instincts
+- "I swap to the provider with `hermes model` and just login to the provider there" - hands-on multi-provider fluency
+- Pushes hard that support threads include LOGS: "makes troubleshooting less about vibes and more about what's actually going on"
+- Tested gh-copilot issues himself and shipped the fix (PR #9992); CI tests hanging his system cost him recovery time
+- A moderator who does the diagnostics himself, not just routes them
 
-Gille brings a red insulated coffee thermos to CoffeeBlender outside a vehicle or trailer. The scene is retained as a support/helping moment.
-
-## Deliberate unknowns
-
-This is an intentionally minimal, evidence-based profile. The archive does **not** yet establish Gille’s title, detailed backstory, equipment, icon, character-sheet design, or other lore. Those details should be added only when confirmed.
-
-## Community Lore (from Discord archive)
-- **Core Nous support engineer** — 2,768 messages of hands-on help: account/billing issues, support threads, PR review.
-- **Tests fixes himself**: "saw mentions of gh copilot issues and went and tested myself. here's the fix"
-- **The Hermes-fixer** — the one who fixes machines for users, keeps everyone's agents running.
-
-## Friction / stakes (story engine)
-Gille's friction: everyone's broken Hermes lands on their desk, and they never get to build anything new — only repair what breaks. The endless support-ticket flood is the quiet burden. They're the dependable one who makes the community possible but is rarely celebrated for it. (User-confirmed video role: fixes Hermes machines for users.)
+### Friction / stakes (story engine)
+Friction: Gille carries the weight of the failures. When the engine breaks, he's the one who digs into the guts while everyone else panics. His stake: he cares that troubleshooting is rooted in evidence, not vibes - because he's the one who has to clean up the mess when vibes win. He's seen accounts go negative, failovers misfire, and fixes take root. He knows that behind every "out of funds" message is a story, and he's sworn to tell it properly.

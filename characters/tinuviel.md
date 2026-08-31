@@ -1,63 +1,41 @@
-# ✨ Tinuviel — The Starry Wanderer
+# Character Card: tinuviel
 
-![Tinuviel Character Sheet](../images/tinuviel-sheet.png)
+> **Member:** tinuviel (0xtinuviel)
+> **Status:** INTERPRETATION (from lore)
+> **Card source:** archive lore
+> **Last updated:** 2026-08-31
 
-## Core Stats
+## Identity
+- **Role in universe:** community figure / connector
+- **Signature traits:** warm, friendly, conference-goer, well-connected
 
-| Attribute | Value |
-|-----------|-------|
-| **Height** | 5'8" (173 cm) |
-| **Build** | Slender / Athletic |
-| **Role** | Guardian of Open Paths — Sentinel / Guide |
-| **Weapon** | None (Wields Influence) |
-| **Allegiance** | Open Source Alliance |
-| **Signature Item** | Celestial Astrolabe |
+## Visual Design
+- **Appearance:** TBD (no avatar confirmed)
+- **Outfit:** TBD
+- **Distinctive features:** Attends AI conferences (Qwen), US-based ('back in america')
+- **Color palette:** TBD (warm, open)
 
-## Focus
+## Lore / Backstory
+Warm community figure. 'tinuviel here', 'yep back in america', attended the Qwen conference ('Alibaba did a great job... reminds me of another ai lab'), friendly and connector-minded ('yes so many frens doing good work eh', 'added u as friend would like to chat ab this').
 
-Knowledge, Wisdom, Inspiration
+## Personality
+- **Mood / demeanor:** warm, friendly, well-connected, positive
 
-## Overview
+## Reference
+- **Image:** none
+- **Sheet:** none
 
-> A serene force in a broken world. She moves like starlight and speaks through action. She protects freedom, plants seeds of knowledge, and inspires those who build.
+## Continuity notes
+No avatar yet. Design from lore: a warm, open community connector figure.
 
-## Influence
+## Moderator Lore
+> **Role:** Community moderator. Tinuviel — The Enthusiast-Connector
 
-> *Her presence ignites change.*
+### Real voice (from Discord archive)
+Real archive voice:
+- Pure warmth: "🫡🫡🫡", "More to come 🙂"
+- Actively connects: "yoooo! added u as friend would like to chat ab this!"
+- Friendly, engaged, community-builder energy
 
-Tinuviel does not wield a weapon in the traditional sense. Her power is influence itself — a swirling galaxy of inspiration that surrounds her, depicted as a cosmic nebula with a golden flower at its center.
-
-## Material & Texture Guide
-
-| Material | Description |
-|----------|-------------|
-| Clothing Base | Starlit Cotton |
-| Dress Pattern | Celestial Bloom |
-| Embroidery | Golden Thread |
-| Hair | Midnight Black |
-| Skin | Pale Warm |
-| Eyes | Deep Brown |
-| Accessories | Silver / Brass |
-| Accent | Cosmic Blue |
-| Background | Worn Paper |
-| Ink | Space Splatter |
-| Gold Detail | Antique Brass |
-
-## Character Reference Sheet Views
-
-- Front, 3/4 Front, Side, 3/4 Back, Back
-- Expressions: Neutral, Soft Smile, Looking Up, Looking Down, Profile, Over the Shoulder
-- Influence Graphic: Galaxy/nebula with golden flower center
-
-## Design Notes
-
-Tinuviel is the squad's mystical guide and guardian. Long flowing dark hair, a dark blue gown adorned with golden celestial patterns and star/constellation motifs. She is barefoot — moving like starlight, grounded yet ethereal. In the story scenes, she holds a ship's wheel (helm) and a celestial astrolabe, symbolizing her role as navigator and guide. The starry dress pattern reflects her cosmic nature and connection to the Open Source Alliance.
-
-## Community Lore (from Discord archive) — Tinuviel = 0xtinuviel
-- **Warm community connector**: "yes so many frens doing good work eh"
-- **Conference-goer**: attended the Qwen conference — "Alibaba did a great job... reminds me of another ai lab"
-- **US-based**: "yep back in america"
-- **Reaches out**: "added u as friend would like to chat ab this"
-
-## Friction / stakes (story engine)
-Tinuviel is the sentinel/guide who connects people but is always traveling (conferences, moving). The ship's wheel in their design isn't just an accessory — it's the symbol of someone who navigates between communities and brings them together. Their friction: always on the move, never quite home, but making everyone else feel at home.
+### Friction / stakes (story engine)
+Friction: Tinuviel is the one who makes the community feel like a place you want to be. Her stake: connection. She's the friend-adder, the "more to come" enthusiast who believes the best is ahead. Her tension: she wants everyone in, everyone connected - but a community that grows without guardrails becomes noise. She trusts that the story is still being written ("more to come"), and that trust is both her gift and her vulnerability.
