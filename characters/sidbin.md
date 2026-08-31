@@ -1,64 +1,27 @@
-# 👁️ Sidbin — Mirror Shade
+# Character Card: sidbin
 
-![Sidbin Character Sheet](../images/sidbin-sheet.png)
+> **Member:** sidbin (Mirror Shade)
+> **Status:** CANON (from 123mikeyd's vault) + enrichment
+> **Card source:** nrcu-vault characters/sidbin.md
+> **Last updated:** 2026-08-31
 
-## Core Stats
+## Identity
+- **Role in universe:** Wandering Observer — Scout / Analyst
+- **Signature traits:** reclusive drifter, mirrored lenses, carries secrets, unknown allegiance
+- **Allegiance:** ⚠️ UNKNOWN
+- **Signature item:** Reflective Intel Shard
 
-| Attribute | Value |
-|-----------|-------|
-| **Height** | 6'0" (183 cm) |
-| **Build** | Slim / Lithe |
-| **Role** | Wandering Observer — Scout / Analyst |
-| **Weapon** | None (Carries Secrets) |
-| **Allegiance** | ⚠️ **Unknown** |
-| **Signature Item** | Reflective Intel Shard |
+## Visual Design
+- **Appearance:** tall slim figure, long dark waxed-canvas coat, shaggy dark-brown hair
+- **Eyewear:** round mirrored lenses — reflect, distort, conceal
+- **Signature:** surrounded by swirling teal/mauve/lavender/grey smoke; eye-sigil book
 
-## Focus
+## Lore / Backstory
+A reclusive drifter who moves through the edges of cities like smoke through alleys. He sees more than he speaks, reflecting truths others try to hide. His past is unwritten, his motives a mirror — fractured, beautiful, and unreadable. The squad's only member whose allegiance is listed as Unknown — the biggest narrative hook. Is he truly loyal to Nous Research? Does he serve a different master? His reflective lenses mirror the world back: you see yourself in him, but never see him clearly.
 
-Observation, Secrets, Truth
+## Personality
+- **Mood / demeanor:** quiet, observant, enigmatic, withholding
 
-## Overview
-
-> A reclusive drifter who moves through the edges of cities like smoke through alleys. He sees more than he speaks, reflecting truths others try to hide. His past is unwritten, his motives a mirror—fractured, beautiful, and unreadable.
-
-## Material & Texture Guide
-
-| Material | Description |
-|----------|-------------|
-| Coat Fabric | Waxed Canvas / Matte |
-| Inner Layers | Soft Cotton / Jersey |
-| Pants | Tactical Denim / Twill |
-| Hair | Shaggy / Dark Brown |
-| Lens Reflection | Iridescent / Prismatic |
-| Smoke Palette | Teal / Mauve / Lavender / Grey |
-| Boots & Hardware | Scuffed Leather / Black Metal |
-| Metal Accents | Gunmetal / Worn Silver |
-| Background Texture | Aged Paper / Concrete |
-| Ink Splatter | Charcoal Black |
-
-## Character Reference Sheet Views
-
-- Front, 3/4 Front, Side, 3/4 Back, Back
-- Expressions: Neutral, Smirk, Looking Up, Looking Down, Profile, Over the Shoulder
-- Signature Eyewear: Round Mirrored Lenses — Reflect: Distort, Conceal
-
-## Design Notes
-
-Sidbin is the squad's enigmatic wildcard — the only member whose allegiance is listed as **Unknown**. A tall, slim figure in a long dark waxed-canvas coat, with round mirrored lenses that reflect, distort, and conceal. He carries an eye-sigil book and is surrounded by swirling purple/teal smoke-like energy. In the campfire scene, he leans forward studying his book, while in the carnival party he appears as a long-haired figure with sunglasses observing from the side. His motives are "a mirror — fractured, beautiful, and unreadable."
-
-The mystery surrounding Sidbin is the squad's biggest narrative hook. Is he truly loyal to Nous Research? Does he serve a different master? Or is he a free agent playing his own long game? His reflective lenses literally mirror the world back — you see yourself in him, but never see him clearly.
-
-## Narrative Hooks
-
-- **Unknown Allegiance:** The only squad member not confirmed as Nous Research
-- **Carries Secrets:** His "weapon" is information itself
-- **Reflective Intel Shard:** A mysterious artifact that shows hidden truths
-- **Smoke and Mirrors:** Literally enveloped in smoke, wearing mirrored lenses — deception is his nature, but whose side is the deception serving?
-
-## Community Lore (from Discord archive)
-- (Sidbin's handle surfaced as a dev-team member 123mikeyd interacts with; exact public lore to be confirmed.)
-- **Scout / Analyst** — "Carries Secrets" per the vault framing.
-- The eye-sigil book + purple energy in the campfire scene = an observer who watches and understands more than he says.
-
-## Friction / stakes (story engine)
-Sidbin is the quiet observer — the one who knows the secrets but is sworn to carry them. His friction: holding knowledge he can't share, watching the community make choices he already knows the outcome of. The eye isn't a weapon; it's a burden.
+## Continuity notes
+- The eye isn't a weapon; it's a burden. His friction: holding knowledge he can't share, watching the community make choices he already knows the outcome of.
+- Visual canon from 123mikeyd's vault (campfire: studying his book; carnival: long-haired observer with sunglasses at the side).
