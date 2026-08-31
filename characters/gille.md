@@ -30,3 +30,11 @@ Gille brings a red insulated coffee thermos to CoffeeBlender outside a vehicle o
 ## Deliberate unknowns
 
 This is an intentionally minimal, evidence-based profile. The archive does **not** yet establish Gille’s title, detailed backstory, equipment, icon, character-sheet design, or other lore. Those details should be added only when confirmed.
+
+## Community Lore (from Discord archive)
+- **Core Nous support engineer** — 2,768 messages of hands-on help: account/billing issues, support threads, PR review.
+- **Tests fixes himself**: "saw mentions of gh copilot issues and went and tested myself. here's the fix"
+- **The Hermes-fixer** — the one who fixes machines for users, keeps everyone's agents running.
+
+## Friction / stakes (story engine)
+Gille's friction: everyone's broken Hermes lands on their desk, and they never get to build anything new — only repair what breaks. The endless support-ticket flood is the quiet burden. They're the dependable one who makes the community possible but is rarely celebrated for it. (User-confirmed video role: fixes Hermes machines for users.)

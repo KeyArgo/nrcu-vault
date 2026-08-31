@@ -52,3 +52,12 @@ Tinuviel does not wield a weapon in the traditional sense. Her power is influenc
 ## Design Notes
 
 Tinuviel is the squad's mystical guide and guardian. Long flowing dark hair, a dark blue gown adorned with golden celestial patterns and star/constellation motifs. She is barefoot — moving like starlight, grounded yet ethereal. In the story scenes, she holds a ship's wheel (helm) and a celestial astrolabe, symbolizing her role as navigator and guide. The starry dress pattern reflects her cosmic nature and connection to the Open Source Alliance.
+
+## Community Lore (from Discord archive) — Tinuviel = 0xtinuviel
+- **Warm community connector**: "yes so many frens doing good work eh"
+- **Conference-goer**: attended the Qwen conference — "Alibaba did a great job... reminds me of another ai lab"
+- **US-based**: "yep back in america"
+- **Reaches out**: "added u as friend would like to chat ab this"
+
+## Friction / stakes (story engine)
+Tinuviel is the sentinel/guide who connects people but is always traveling (conferences, moving). The ship's wheel in their design isn't just an accessory — it's the symbol of someone who navigates between communities and brings them together. Their friction: always on the move, never quite home, but making everyone else feel at home.

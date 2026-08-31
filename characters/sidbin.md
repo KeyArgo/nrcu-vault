@@ -54,3 +54,11 @@ The mystery surrounding Sidbin is the squad's biggest narrative hook. Is he trul
 - **Carries Secrets:** His "weapon" is information itself
 - **Reflective Intel Shard:** A mysterious artifact that shows hidden truths
 - **Smoke and Mirrors:** Literally enveloped in smoke, wearing mirrored lenses — deception is his nature, but whose side is the deception serving?
+
+## Community Lore (from Discord archive)
+- (Sidbin's handle surfaced as a dev-team member 123mikeyd interacts with; exact public lore to be confirmed.)
+- **Scout / Analyst** — "Carries Secrets" per the vault framing.
+- The eye-sigil book + purple energy in the campfire scene = an observer who watches and understands more than he says.
+
+## Friction / stakes (story engine)
+Sidbin is the quiet observer — the one who knows the secrets but is sworn to carry them. His friction: holding knowledge he can't share, watching the community make choices he already knows the outcome of. The eye isn't a weapon; it's a burden.

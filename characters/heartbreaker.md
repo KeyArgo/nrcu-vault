@@ -46,3 +46,11 @@ Community, Charm, Code, Design
 ## Design Notes
 
 Heartbreaker (aka Brooklyn) is the squad's charismatic builder and community champion. Voluminous curly brown hair, pink heart-patterned dress with high-low hemline, pink high heels. Her weapon is her pink laptop covered in heart and skull stickers — charm and code are her arsenal. She fights closed systems not with force, but with conviction, wit, and an unbreakable belief in open freedom.
+
+## Community Lore (from Discord archive) — Heartbreaker = Brooklyn
+- (Lore to be filled from archive — Heartbreaker/Brooklyn's handle needs confirmation; this is a known community figure whose card is currently visual-only.)
+- **Builder / Believer** — the vault's own framing: "Nimble Wit & Open Tools."
+- **Character archetype**: the optimist who believes open tools can win — a counterweight to the cynics.
+
+## Friction / stakes (story engine)
+Heartbreaker's friction: believing in something (open source, the community) while the world keeps giving reasons to doubt. Her "weapon" is nimble wit and open tools — meaning she wins not by force but by out-thinking and out-building. The glowing heart floating above her in the campfire scene isn't decoration; it's the thing she's trying to protect.

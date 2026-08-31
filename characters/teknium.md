@@ -35,3 +35,17 @@ Teknium is the squad's green-haired leader. His spiky hair carries visible leafa
 - **Hermes Command Staff:** A tall staff associated with the squad
 - **Glowing Tablet:** Displays green schematics, maps, and strategic data
 - **NR Patches:** Nous Research insignia on jacket shoulders
+
+## Community Lore (from Discord archive)
+- **Cofounder**: "I'm a cofounder of nous and have been building hermes models until hermes agent" — NOT the CEO ("lol I'm not ceo of nous just so everyone knows 😄")
+- **Builds Hermes with Hermes**: "does using it exclusively to build hermes-agent for my company (nous) count 😄"
+- **Always-on**: "my timezone doesnt matter I am asleep or awake at all times", "ok I am awake for the night now"
+- **Hands-on engineer**: adds skills, plugins, portal commands himself
+- **Wry humor**: "I am not making personal girlfriend agents I want them to do tasks", "I am a little too busy building hermes agent to do that right now 🙃"
+- **Direct**: "I am here, I am addressing it, you already have my attention"
+- **Cautious where it matters**: "merging this will mean we have to officially support windows so I am a bit cautious 😄"
+- **Wrote a full novel via Hermes** ("did the whole novel work")
+- **The celebrated figure** the community is thanking — the 'creator god' rarely seen directly, but why everyone gathered.
+
+## Friction / stakes (story engine)
+Teknium's driving tension: building an impossible thing while being one person who's "always awake." The world (Hermes) is bigger than him — he feeds it, but it will never be finished. His staff isn't a symbol of power; it's the tool he never puts down. He says "we" because the community IS the engine — he's the spark that lit it, not the whole fire.
