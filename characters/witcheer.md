@@ -43,3 +43,11 @@ The sheet describes Witcheer as a slick, cunning, charismatic trickster who turn
 - Is he really a duck? 
 - Public handle or profile links
 - Additional affiliations or story history beyond what the Duck do. 
+
+## Community Lore (from Discord archive)
+- **Light-touch developer / community member**: Qwen user, PR-backlog awareness, "hello, there are 70k+ PRs to review, no need to ping on this, we'll get to them at some point 🙂" — patient about the backlog.
+- **Playful**: "LOOOL", "brainstorm is kind of shitty" — dry, low-key humor.
+- **Follows Teknium/community**: links Teknium's X posts, tests workflows, shares what he finds.
+
+## Friction / stakes (story engine)
+Witcheer is the LUCK MERCHANT — a slick, cunning trickster who "turns luck into leverage and wealth into power. He sells chances others can't find, and always makes the odds work in his favor." But under the gold and the grin, the real game is quieter: a community member who learned that patience pays (the PR backlog is never-ending, so you wait, you test, you find your own edge). The Fortune Cane isn't magic — it's the experience of knowing exactly which door to tap and when.
